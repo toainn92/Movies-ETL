@@ -12,3 +12,7 @@ Below are the number of movies query and numbers of ratings query found when add
 ![](Resources/movies_query.PNG)
 
 ![](Resources/ratings_query.PNG)
+
+
+### Conclusion
+In this analysis, an ETL function was written to read the three data files. Then, the data was extracted and transformed from the Wikipedia data and Kaggle Data. Lastly, a movie data base was created on PostgreSQL.
