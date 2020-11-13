@@ -8,6 +8,7 @@ In this module, the code was refactored to take in three files -Wikpedia data, K
 
 Below are the number of movies query and numbers of ratings query found when added to PostgreSQL:
 
-![](Resources/movies_query.png)
 
-![](Resources/ratings_query.png)
+![](Resources/movies_query.PNG)
+
+![](Resources/ratings_query.PNG)
